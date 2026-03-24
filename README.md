@@ -103,6 +103,4 @@ http://localhost:8080
 
 ---
 
-## 👨‍💻 Author
 
-Rishu
